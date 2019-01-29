@@ -1,1 +1,1 @@
-echo "hlo"
+print('Hello Navjot')
